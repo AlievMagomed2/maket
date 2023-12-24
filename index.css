@@ -1,0 +1,257 @@
+.dekstop {
+    width: 1440px;
+    height: 2454px;
+    background: #FFF;
+}
+.nigga{
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    width: 112px;
+    height: 66px;
+    flex-shrink: 0;
+    margin-left: 121px;
+    margin-top: 21px;
+    margin-right: 1207px;
+    margin-bottom: 2367px;
+}
+.niga{
+    width: 22px;
+height: 21px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 0.489px 0px / 95.55% 100% no-repeat;
+margin-top: 184px ;
+margin-bottom: 2249px;
+margin-left: 121px;
+margin-right: 1297px;
+}
+.online{
+    width: 130px;
+height: 32px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 115%; /* 23px */
+}
+.niga{
+    width: 22px;
+height: 22px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+margin-top: 183px;
+margin-left: 306px;
+margin-bottom: 2249px;
+margin-right: 1112px;
+}
+.ni{
+    width: 130px;
+height: 32px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 115%; /* 23px */
+}
+.nigger{
+    width: 20px;
+height: 22px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+margin-top: 183px;
+margin-bottom: 2249px;
+margin-left: 467px;
+margin-right: 953px;
+}
+.sept{
+    width: 130px;
+height: 32px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 115%; /* 23px */
+}
+.h{
+    width: 628px;
+height: 190px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto Slab;
+font-size: 80px;
+font-style: normal;
+font-weight: 700;
+line-height: 101.385%; /* 81.108px */
+}
+.info{
+    width: 414px;
+height: 62px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 30px */
+}
+.see{
+    width: 304px;
+height: 356px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+margin-top: 223px;
+margin-bottom: 1875px;
+margin-left: 890px;
+margin-right: 246px;
+}
+.container{
+    width: 483.635px;
+    height: 200px;
+    flex-shrink: 0;
+    border-radius: 5px;
+background: #1E4681;
+}
+p{
+    width: 430.589px;
+height: 113px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Roboto Slab;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 130%; /* 32.5px */
+}
+.andrei{
+    width: 280.499px;
+height: 45.641px;
+flex-shrink: 0;
+color: #FFF;
+text-align: right;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 130%; /* 26px */
+}
+.question{
+    width: 667px;
+height: 93px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto Slab;
+font-size: 55px;
+font-style: normal;
+font-weight: 700;
+line-height: 101.385%; /* 55.762px */
+}
+.information{
+    width: 662px;
+height: 374px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 36px */
+}
+.container-big{
+    width: 1440px;
+height: 780px;
+flex-shrink: 0;
+background: #9DC9C8;
+}
+.start{
+    width: 908px;
+height: 66px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto Slab;
+font-size: 55px;
+font-style: normal;
+font-weight: 700;
+line-height: 101.385%; /* 55.762px */
+}
+.cost{
+    width: 170px;
+height: 32px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 101.385%; /* 25.346px */
+}
+.three{
+    width: 481px;
+height: 181px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 80px;
+font-style: normal;
+font-weight: 400;
+line-height: 101.385%; /* 81.108px */
+}
+.v{
+    width: 294px;
+height: 32px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 101.385%; /* 25.346px */
+}
+.w{
+    width: 294px;
+height: 70px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 101.385%; /* 18.249px */
+}
+.l{
+    width: 322px;
+height: 32px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 101.385%; /* 25.346px */
+}
+.r{
+    width: 294px;
+height: 70px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 101.385%; /* 18.249px */
+}
+
+
+
+
+
+
+
+
+
+
+
+
